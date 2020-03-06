@@ -1,7 +1,7 @@
 ## **Table of Contents**
 
 - [PROJECT TITLE](#Project-Title)
-- [Project Description](#Project Description)
+- [PROJECT DESCRIPTION](#Project Description)
 - [Football Stats](#Football Stats)
 - [Basketball Stats](#Basketball Stats)
 - [Hockey Stats](#Hockey Stats)
