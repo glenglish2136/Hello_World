@@ -1,12 +1,15 @@
 # **Table of Contents**
-- Project Title
-- Football Stats
-- Basketball Stats
-- Hockey Stats 
-- Baseball Stats
-- Lacrosse Stats
+- [Project Title](#Project Title)
+- [Project Description](#Project Description)
+- [Football Stats](#Football Stats)
+- [Basketball Stats](#Basketball Stats)
+- [Hockey Stats](#Hockey Stats)
+- [Baseball Stats](#Baseball Stats)
+- [Lacrosse Stats](#Lacrosse Stats)
 # **Project Title**
 Sports Analytics
+#**Project Description**
+Soon there will be sample code here that can help you track different stats for different sports.
 # **Football Stats**
 Code for EPA/play for each NFL team
 # **Basketball Stats**
