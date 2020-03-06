@@ -1,12 +1,12 @@
 ## **Table of Contents**
 
-- [PROJECT TITLE](#Project-Title)
-- [PROJECT DESCRIPTION](#Project Description)
-- [Football Stats](#Football Stats)
-- [Basketball Stats](#Basketball Stats)
-- [Hockey Stats](#Hockey Stats)
-- [Baseball Stats](#Baseball Stats)
-- [Lacrosse Stats](#Lacrosse Stats)
+- [Project Title](#Project-Title)
+- [Project Description](#Project-Description)
+- [Football Stats](#Football-Stats)
+- [Basketball Stats](#Basketball-Stats)
+- [Hockey Stats](#Hockey-Stats)
+- [Baseball Stats](#Baseball-Stats)
+- [Lacrosse Stats](#Lacrosse-Stats)
 
 ## **Project Title**
 Sports Analytics
