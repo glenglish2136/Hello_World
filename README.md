@@ -8,7 +8,7 @@
 - [Lacrosse Stats](#Lacrosse Stats)
 # **Project Title**
 Sports Analytics
-#**Project Description**
+# **Project Description**
 Soon there will be sample code here that can help you track different stats for different sports.
 # **Football Stats**
 Code for EPA/play for each NFL team
