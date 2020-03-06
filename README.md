@@ -5,15 +5,15 @@
 - Hockey Stats 
 - Baseball Stats
 - Lacrosse Stats
-## **Project Title**
+# **Project Title**
 Sports Analytics
-### **Football Stats**
+# **Football Stats**
 Code for EPA/play for each NFL team
-#### **Basketball Stats**
+# **Basketball Stats**
 Code for true plus/minus for each NBA player
-##### **Hockey Stats**
+# **Hockey Stats**
 Code for EPA/player for each NHL team
-###### **Baseball Stats**
+# **Baseball Stats**
 Code for RBI and OBP for each MLB team
-####### **Lacrosse Stats**
+# **Lacrosse Stats**
 Code for EPA for each PLL team 
